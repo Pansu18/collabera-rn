@@ -21,6 +21,13 @@ const styles = StyleSheet.create({
     borderWidth: 2,
     borderColor: '#E20012',
   },
+  errorMsg: {
+    fontSize: 12,
+    color: '#E20012',
+    paddingVertical: 6,
+    lineHeight: 14,
+    marginHorizontal: 24,
+  },
   input: {
     borderWidth: 0.5,
     borderColor: '#D0DBEA',
